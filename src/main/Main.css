@@ -1,0 +1,8 @@
+.main .nav img{
+    width: 40px;
+    border-radius: 50%;
+}   
+.main-container {
+    max-width: 900px;
+    margin: auto;
+}
